@@ -7,5 +7,6 @@ public class DrawBoxes{
     System.out.println("|      |");
     System.out.println("|      |");
     System.out.println("+------+");
+    // calling drawBox(); again would cause infinite recursion
   }
 }
