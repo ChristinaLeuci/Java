@@ -5,5 +5,9 @@ public class Hello {
     System.out.println("New Line \n Character");
     System.out.println("Quotation \" Mark");
     System.out.println("Backslash \\ Character");
+    // single line comment
+    /*multiple
+    line
+    comment*/
   }
 }
