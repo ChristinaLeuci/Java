@@ -4,5 +4,10 @@ public class WriteRoots{
       double root = Math.sqrt(i);
       System.out.println("sqrt of " + i + " = " + root);
     }
+    
+    System.out.println("15000 miles is " + miles(15000) + " miles.");
+  }
+  public static double miles(double feet){
+    return feet / 5280.0;
   }
 }
