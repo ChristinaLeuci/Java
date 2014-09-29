@@ -3,6 +3,7 @@ public class BMICalculator{
     double height;
     double weight;
     double bmi;
+    // double height = 67.2, weight = 120, bmi;
 
     height = 67.2;
     weight = 120;
