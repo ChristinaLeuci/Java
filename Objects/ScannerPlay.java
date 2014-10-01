@@ -6,11 +6,11 @@ public class ScannerPlay{
 
     System.out.println("This program computes monthly loan payments.");
 
-    System.out.print("Loan amount     : ");
+    System.out.print("Loan amount: ");
     double loan = console.nextDouble();
-    System.out.print("Number of years : ");
+    System.out.print("Number of years: ");
     int years = console.nextInt();
-    System.out.println("Interest rate :");
+    System.out.println("Interest rate:");
     double rate = console.nextDouble();
     System.out.println();
 
